@@ -14,6 +14,7 @@ Environment:
 
 To reproduce the CPU spike / leak on OSX 10.11.3, follow these steps:
 
+0. edit `dbconfig.json` to supply your connection info
 0. `npm install`
 0. `node bin/www`
 0. After the app starts, press ctl-c once
