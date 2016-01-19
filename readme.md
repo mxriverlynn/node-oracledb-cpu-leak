@@ -7,10 +7,10 @@ in this project.
 
 Environment: 
 
-OSX v10.11.3
-Node v4.2.2
-NPM v2.14.7
-Oracle 11g
+* OSX v10.11.3
+* Node v4.2.2
+* NPM v2.14.7
+* Oracle 11g
 
 To reproduce the CPU spike / leak on OSX 10.11.3, follow these steps:
 
