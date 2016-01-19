@@ -1,0 +1,5 @@
+{
+  "user": "my-user",
+  "password": "super secret",
+  "connectString": "TNSNAME"
+}
